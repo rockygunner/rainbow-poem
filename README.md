@@ -1,2 +1,2 @@
 # rainbow-poem
-a repo about rianbow poem
+a repo about rainbow poem
